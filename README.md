@@ -7,6 +7,6 @@
 Eu sou um desenvolvedor Java apaixonado pelo ecossistema Spring. Tenho paixão em criar soluções simples para problemas complexos e por código limpo, escalável e organizado.
 
 - :office: Desenvolvedor Java na **Megasoft Informática**
-- :blue_heart: Tecnologias Core: Java, Ecossistema Spring, SQL, Angular, Jenkins e GIT.
+- :blue_heart: Tecnologias Core: Java, Ecossistema Spring, SQL, Angular, Typescript, Jasper Reports e Javascript.
 
 ---
